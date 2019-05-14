@@ -1,3 +1,5 @@
+This code is an implementation of the approach proposed in https://www.sciencedirect.com/science/article/pii/S0020025516314153
+
 A) GA-Apriori and PSO-Apriori Implementations: 
 
 GA-Apriori.cpp and PSO-Apriori.cpp present the C++ Implementation of GA-Apriori and PSO-Apriori approaches. 
@@ -22,3 +24,4 @@ GA-Apriori.exe  and PSO-Apriori.exe
 D) About input data
 The input data should be available in a textfile (.txt). To load the data into the program, you have to modify the name of 
 the file in the function read_trans(), in particulary in the function fopen(). 
+
